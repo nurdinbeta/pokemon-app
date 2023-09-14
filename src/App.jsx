@@ -19,7 +19,7 @@ function App() {
 
    return (
     <div className="flex flex-col justify-center items-center w-screen h-screen bg-[#526D82] text-center">
-      <h1 className="text-5xl font-bold p-3 mb-4">Pokemon App Finder</h1>
+      <h1 className="text-5xl font-bold p-3 mb-4">Pokemon Finder App</h1>
       <div className="mb-6">
         <input
           type="text"
