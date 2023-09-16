@@ -1,5 +1,8 @@
 # Pokemon Finder App
 
+![poke-app](src/assets/poke-app.png)
+![poke-app-1](src/assets/poke-app-1.png)
+
 The Pokemon Finder App is a web application that allows users to search for detailed information about Pokemon by entering their names. This app is built using Vite, React, and Tailwind CSS, making it a fast, modern, and visually appealing way to explore the world of Pokemon.
 
 ## Features
@@ -16,25 +19,24 @@ To run the Pokemon Finder App locally on your machine, follow these steps:
 
 Clone the repository:
 
-``
+```bash
 git clone https://github.com/nurdinbeta/pokemon-app.git
 cd pokemon-app
-``
+```
 
 Install dependencies:
 
-``
+```bash
 npm install
-``
+```
 
 Start the development server:
 
-``
+```bash
 npm run dev
-``
+```
 
 Open your web browser and navigate to http://localhost:5173/ to access the app.
-
 
 ## Usage
 
@@ -47,7 +49,6 @@ Open your web browser and navigate to http://localhost:5173/ to access the app.
 - If the Pokemon is found, you'll see its name, image, height, weight, and types displayed on the screen.
 
 - If an invalid Pokemon name is entered, the app will show an error message indicating that the Pokemon was not found.
-
 
 ## Contributing
 
